@@ -1,0 +1,83 @@
+{
+  "main": {
+    "id": "48383648848114fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "95784d4b647c52b8",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2739d2de61e73ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "342dde7a19677618",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e12f2cff747b99d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d22f6ff72cdda561",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc69dd6f62461a1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e689d78052c6db5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42b8d2c67a7a1b2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Notes/010 Teaching/Untitled.md",
+    "Notes/010 Teaching/Pedagogy MOC.md",
+    "Notes/010 Teaching/010 Teaching.md",
+    "Notes/040 Productivity/IMF Framework  - 202009071933.md",
+    "Notes/040 Productivity/040 Productivity.md"
+  ]
+}
